@@ -70,5 +70,5 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 4. Envie para a branch: `git push origin feature/nome-feature`.
 5. Abra um Pull Request.
 
-## 📝 Licença
-Este projeto está licenciado sob a licença [MIT](./LICENSE).
+## 📝 Nota
+Este projeto tem fins educacionais. Sinta-se à vontade para explorar, modificar e adaptar o código conforme suas necessidades e interesses.

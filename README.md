@@ -1,4 +1,13 @@
 # 🥞 Cook App
+<p align="center">
+  <!-- Contador de linguagens do GitHub -->
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/devAndreotti/cook-app?color=FFF&labelColor=7992e9&style=flat-square">
+  <!-- Tamanho do repositório no GitHub -->
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/devAndreotti/cook-app?color=FFF&labelColor=7992e9&style=flat-square">
+  <!-- Licença do GitHub -->
+  <img alt="GitHub License" src="https://img.shields.io/github/license/devAndreotti/devAndreotti?color=FFF&labelColor=7992e9&style=flat-square">
+</p>
+
 <div align="center">
   <img src="./project.png" alt="Project Banner"/>
 </div>

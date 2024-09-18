@@ -72,3 +72,8 @@ As seguintes tecnologias foram utilizadas na construção do projeto:
 
 ## 📝 Nota
 Este projeto tem fins educacionais. Sinta-se à vontade para explorar, modificar e adaptar o código conforme suas necessidades e interesses.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>

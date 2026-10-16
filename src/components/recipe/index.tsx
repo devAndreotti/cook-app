@@ -23,7 +23,7 @@ export function Recipe({ recipe, ...rest }: Props) {
           colors={["rgba(0,0,0,0.3)", "#000"]}
           style={styles.linear}
         >
-          <Text style={styles.title} numberOfLines={1} lineBreakMode="tail">
+          <Text style={styles.title} numberOfLines={2} lineBreakMode="tail">
             {recipe.name}
           </Text>
 

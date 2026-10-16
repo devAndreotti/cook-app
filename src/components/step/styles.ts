@@ -5,11 +5,13 @@ export const styles = StyleSheet.create({
 
   container: {
     flexDirection: "row",
-    alignItems: "center",
+    alignItems: "flex-start",
     gap: 22,
   },
 
   step: {
+    width: 16,
+    textAlign: "center",
     fontSize: theme.fonts.size.body.sm,
     fontFamily: theme.fonts.family.bold,
     color: theme.colors.black,
